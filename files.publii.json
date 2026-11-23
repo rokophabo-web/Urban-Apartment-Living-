@@ -102,7 +102,7 @@
     {
         "path": "/authors/kevin-h-wilson/index.html",
         "type": "file",
-        "md5": "a9780a3717921816aeb101d92f4ff73e"
+        "md5": "35a39589435ac03c6485d95e44b22cd3"
     },
     {
         "path": "contact-us",
@@ -122,7 +122,7 @@
     {
         "path": "/creating-modern-urban-interiors-with-simplicity-and-style/index.html",
         "type": "file",
-        "md5": "2a969d3b8c7ea1737344fb8553e5a987"
+        "md5": "bc0cb5c0ab085b9a87e848c2b6adf208"
     },
     {
         "path": "creative-storage-ideas-for-modern-and-organized-homes",
@@ -142,7 +142,7 @@
     {
         "path": "/creative-ways-to-define-spaces-in-modern-homes/index.html",
         "type": "file",
-        "md5": "5050808daa22082ecabafedf370038cc"
+        "md5": "a0f79b04eed8fe33bc42f6c59fb49fb8"
     },
     {
         "path": "designing-beautiful-and-practical-multi-functional-living-spaces",
@@ -152,7 +152,7 @@
     {
         "path": "/designing-beautiful-and-practical-multi-functional-living-spaces/index.html",
         "type": "file",
-        "md5": "01eca2a6a190ac350c5d7bac1abd362d"
+        "md5": "31eb19f18bccc48179232ec4bc3adb91"
     },
     {
         "path": "elegant-interior-design-ideas-for-modern-and-sophisticated-homes",
@@ -167,17 +167,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "bbe8c8bf8a0050e67f8ab5e4cf2e13c3"
+        "md5": "659cea49e9f62d29d9128f780820c9b0"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e5e77331f66fda847562679d976c594e"
+        "md5": "7b4e38ae3812a82f69820af9388ecb68"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "181e1ec0964c2bea272b002d31eb1120"
+        "md5": "8d933fcd9e88836e1de364c7de17c0f3"
     },
     {
         "path": "media",
@@ -463,6 +463,61 @@
         "path": "/media/posts/15/responsive/images-2026-11-18T230823.622-xs.jpg",
         "type": "file",
         "md5": "3a716c9d63f49de195658c8dc4cd6048"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/images-2026-11-23T074255.279.jpg",
+        "type": "file",
+        "md5": "a0b92c08954b596b6b9d8ee31b10b1a4"
+    },
+    {
+        "path": "/media/posts/16/images-2026-11-23T074259.971.jpg",
+        "type": "file",
+        "md5": "aea583bdca5059c3d74cbfed2da54f5b"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074255.279-md.jpg",
+        "type": "file",
+        "md5": "6f7db20e2fce52050b7538e2787df8e6"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074255.279-sm.jpg",
+        "type": "file",
+        "md5": "6f7db20e2fce52050b7538e2787df8e6"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074255.279-xs.jpg",
+        "type": "file",
+        "md5": "84117288c045e1765cff0039e645461e"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074259.971-lg.jpg",
+        "type": "file",
+        "md5": "56b2ab8f0837d9c183817cc297061b6b"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074259.971-md.jpg",
+        "type": "file",
+        "md5": "56b2ab8f0837d9c183817cc297061b6b"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074259.971-sm.jpg",
+        "type": "file",
+        "md5": "3b7092da443f8ee5a5728ff51076c797"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074259.971-xs.jpg",
+        "type": "file",
+        "md5": "d652ec48a7b8316f30c4ec38fd4ec7a5"
     },
     {
         "path": "media/posts/4",
@@ -857,7 +912,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "5c7e60eb82ac4a444dd2bf682dc996c2"
+        "md5": "2e8e6b38627486bbd1818645e0879bb2"
     },
     {
         "path": "sitemap.xsl",
@@ -875,6 +930,16 @@
         "md5": "a384e035f4a7ed3099244be01833bed4"
     },
     {
+        "path": "smart-interior-design-ideas-for-creating-flexible-and-functional-living-spaces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/smart-interior-design-ideas-for-creating-flexible-and-functional-living-spaces/index.html",
+        "type": "file",
+        "md5": "d87a6261e199e21e2cd031eae8f33d5f"
+    },
+    {
         "path": "smart-interior-design-ideas-for-flexible-and-practical-homes",
         "type": "directory",
         "md5": false
@@ -882,7 +947,7 @@
     {
         "path": "/smart-interior-design-ideas-for-flexible-and-practical-homes/index.html",
         "type": "file",
-        "md5": "4ce4b669752e38125e4a08ed6442282a"
+        "md5": "568cebbd3c6eb0f6575f695b09ac6fd9"
     },
     {
         "path": "smart-storage-solutions-for-organized-and-stylish-interiors",
@@ -962,7 +1027,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "51554472e33e8bc8b39f94cf2c014923"
+        "md5": "e463f609f19d7d1c5189ab85d21016a5"
     },
     {
         "path": "tags/loveseat-bed-units",
@@ -1022,7 +1087,7 @@
     {
         "path": "/tags/room-dividers/index.html",
         "type": "file",
-        "md5": "e5a338fc372e38aafcef83f670180c4c"
+        "md5": "1501b90c319626402812034043dfd2b3"
     },
     {
         "path": "tags/studio-apartment-layouts",
@@ -1032,7 +1097,7 @@
     {
         "path": "/tags/studio-apartment-layouts/index.html",
         "type": "file",
-        "md5": "e71c3df0e8dbde09cf76951cf31b3554"
+        "md5": "e6355087c69e8bb7f4c747e559b73d9f"
     },
     {
         "path": "tags/tall-bookshelves",
