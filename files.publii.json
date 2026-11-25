@@ -102,7 +102,7 @@
     {
         "path": "/authors/kevin-h-wilson/index.html",
         "type": "file",
-        "md5": "35a39589435ac03c6485d95e44b22cd3"
+        "md5": "968c65ed8000366a718649b40cb751f4"
     },
     {
         "path": "contact-us",
@@ -113,6 +113,16 @@
         "path": "/contact-us/index.html",
         "type": "file",
         "md5": "df61164d81c2112f67098e8be6a9fdd8"
+    },
+    {
+        "path": "creating-flexible-and-practical-spaces-for-modern-living",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-flexible-and-practical-spaces-for-modern-living/index.html",
+        "type": "file",
+        "md5": "3442dd2d0b325229f07f39b9a1b0e743"
     },
     {
         "path": "creating-modern-urban-interiors-with-simplicity-and-style",
@@ -142,7 +152,7 @@
     {
         "path": "/creative-ways-to-define-spaces-in-modern-homes/index.html",
         "type": "file",
-        "md5": "a0f79b04eed8fe33bc42f6c59fb49fb8"
+        "md5": "10a25445944b69c1b940d7ba55f344f4"
     },
     {
         "path": "designing-beautiful-and-practical-multi-functional-living-spaces",
@@ -152,7 +162,7 @@
     {
         "path": "/designing-beautiful-and-practical-multi-functional-living-spaces/index.html",
         "type": "file",
-        "md5": "31eb19f18bccc48179232ec4bc3adb91"
+        "md5": "0e4b0f75d0b16b24f51d6dfc207fcfb2"
     },
     {
         "path": "elegant-interior-design-ideas-for-modern-and-sophisticated-homes",
@@ -167,17 +177,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "659cea49e9f62d29d9128f780820c9b0"
+        "md5": "ff4b406c70603d504e3dea50b981bceb"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7b4e38ae3812a82f69820af9388ecb68"
+        "md5": "f8730c624a480f3daee9ce10235348fa"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "8d933fcd9e88836e1de364c7de17c0f3"
+        "md5": "fc3dcdeb80312483d7eb4f3a9aaab828"
     },
     {
         "path": "media",
@@ -518,6 +528,41 @@
         "path": "/media/posts/16/responsive/images-2026-11-23T074259.971-xs.jpg",
         "type": "file",
         "md5": "d652ec48a7b8316f30c4ec38fd4ec7a5"
+    },
+    {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/images-2026-11-25T222839.812.jpg",
+        "type": "file",
+        "md5": "554bdcecaca0e4b605b2bb13b33383ff"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T222839.812-lg.jpg",
+        "type": "file",
+        "md5": "3a02de03dfa40586a2928727711a5f73"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T222839.812-md.jpg",
+        "type": "file",
+        "md5": "3a02de03dfa40586a2928727711a5f73"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T222839.812-sm.jpg",
+        "type": "file",
+        "md5": "d238054c6b69d27b0a3594158f54e2e1"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T222839.812-xs.jpg",
+        "type": "file",
+        "md5": "3ed030b09f336ef3496a47b253a221de"
     },
     {
         "path": "media/posts/4",
@@ -912,7 +957,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2e8e6b38627486bbd1818645e0879bb2"
+        "md5": "2f707579a59ffb42425cc8b9dc2d1ad6"
     },
     {
         "path": "sitemap.xsl",
@@ -937,7 +982,7 @@
     {
         "path": "/smart-interior-design-ideas-for-creating-flexible-and-functional-living-spaces/index.html",
         "type": "file",
-        "md5": "d87a6261e199e21e2cd031eae8f33d5f"
+        "md5": "22d391c3f0429a8bf8a406674cd70159"
     },
     {
         "path": "smart-interior-design-ideas-for-flexible-and-practical-homes",
@@ -947,7 +992,7 @@
     {
         "path": "/smart-interior-design-ideas-for-flexible-and-practical-homes/index.html",
         "type": "file",
-        "md5": "568cebbd3c6eb0f6575f695b09ac6fd9"
+        "md5": "76b87676d0c97f29bdc821cf90cc0677"
     },
     {
         "path": "smart-storage-solutions-for-organized-and-stylish-interiors",
@@ -1027,7 +1072,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "e463f609f19d7d1c5189ab85d21016a5"
+        "md5": "b1e7e24c6dbab42cf9856fe7ee2de1d6"
     },
     {
         "path": "tags/loveseat-bed-units",
@@ -1057,7 +1102,7 @@
     {
         "path": "/tags/multi-functional-furniture-layouts/index.html",
         "type": "file",
-        "md5": "6b6080f82efe204cc55a6fd344b5c7a6"
+        "md5": "f9edd179ecd642b72b1a5ccd69ac9729"
     },
     {
         "path": "tags/open-plan-zoning",
@@ -1097,7 +1142,7 @@
     {
         "path": "/tags/studio-apartment-layouts/index.html",
         "type": "file",
-        "md5": "e6355087c69e8bb7f4c747e559b73d9f"
+        "md5": "76ab42be01c8caecbf04afd754619623"
     },
     {
         "path": "tags/tall-bookshelves",

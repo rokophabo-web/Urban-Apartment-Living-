@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rokophabo-web.github.io/Urban-Apartment-Living-/sitemap.xml

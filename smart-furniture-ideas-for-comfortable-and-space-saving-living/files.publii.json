@@ -1,0 +1,1197 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "898d2aad9caa3d57774fde5562af95f3"
+    },
+    {
+        "path": "about-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/about-us/index.html",
+        "type": "file",
+        "md5": "27cdbed43aa688692071e28ccdc24116"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "d4e241aa96fd8231194a446287497c87"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "cb06b0bb487b5dac59c4da63c0a0b15e"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/imagesloaded.pkgd.min.js",
+        "type": "file",
+        "md5": "919bcd36ba45f4ae408e47ad200e0cc9"
+    },
+    {
+        "path": "/assets/js/masonry.pkgd.min.js",
+        "type": "file",
+        "md5": "520e46df77727aaf3d5e799ef241be02"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "6163ec009b55946ce2430d1fe34cff4d"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "1b09dc64eb6086ddc9720890661ff038"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "e5e4ced5be7f2e5a37bf8605130fe0aa"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "777b8dd8567e93fb9668f9c7cc194dfe"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/kevin-h-wilson",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/kevin-h-wilson/index.html",
+        "type": "file",
+        "md5": "968c65ed8000366a718649b40cb751f4"
+    },
+    {
+        "path": "contact-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contact-us/index.html",
+        "type": "file",
+        "md5": "df61164d81c2112f67098e8be6a9fdd8"
+    },
+    {
+        "path": "creating-flexible-and-practical-spaces-for-modern-living",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-flexible-and-practical-spaces-for-modern-living/index.html",
+        "type": "file",
+        "md5": "3442dd2d0b325229f07f39b9a1b0e743"
+    },
+    {
+        "path": "creating-modern-urban-interiors-with-simplicity-and-style",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-modern-urban-interiors-with-simplicity-and-style/index.html",
+        "type": "file",
+        "md5": "bc0cb5c0ab085b9a87e848c2b6adf208"
+    },
+    {
+        "path": "creative-storage-ideas-for-modern-and-organized-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creative-storage-ideas-for-modern-and-organized-homes/index.html",
+        "type": "file",
+        "md5": "096db35c49c29d7c69a85c61708714d1"
+    },
+    {
+        "path": "creative-ways-to-define-spaces-in-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creative-ways-to-define-spaces-in-modern-homes/index.html",
+        "type": "file",
+        "md5": "10a25445944b69c1b940d7ba55f344f4"
+    },
+    {
+        "path": "designing-beautiful-and-practical-multi-functional-living-spaces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/designing-beautiful-and-practical-multi-functional-living-spaces/index.html",
+        "type": "file",
+        "md5": "0e4b0f75d0b16b24f51d6dfc207fcfb2"
+    },
+    {
+        "path": "elegant-interior-design-ideas-for-modern-and-sophisticated-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elegant-interior-design-ideas-for-modern-and-sophisticated-homes/index.html",
+        "type": "file",
+        "md5": "1be3f6531d64da33b08a9c0f727c535f"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "ff4b406c70603d504e3dea50b981bceb"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "f8730c624a480f3daee9ce10235348fa"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "fc3dcdeb80312483d7eb4f3a9aaab828"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/images-2026-11-18T225225.000.jpg",
+        "type": "file",
+        "md5": "3f5a61266ce8a6d0c3e43ee8813daf4e"
+    },
+    {
+        "path": "/media/posts/10/images-2026-11-18T225230.291.jpg",
+        "type": "file",
+        "md5": "2502ef01e12b5e09e833a81b49acf914"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-18T225225.000-md.jpg",
+        "type": "file",
+        "md5": "1bf621928c26af0c8e75b7a571013330"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-18T225225.000-sm.jpg",
+        "type": "file",
+        "md5": "1bf621928c26af0c8e75b7a571013330"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-18T225225.000-xs.jpg",
+        "type": "file",
+        "md5": "04dccffe78bc2640caa0752cb5b44ba6"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-18T225230.291-lg.jpg",
+        "type": "file",
+        "md5": "15ce3bae252a0c1281b18e2f20b1b7db"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-18T225230.291-md.jpg",
+        "type": "file",
+        "md5": "15ce3bae252a0c1281b18e2f20b1b7db"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-18T225230.291-sm.jpg",
+        "type": "file",
+        "md5": "15ce3bae252a0c1281b18e2f20b1b7db"
+    },
+    {
+        "path": "/media/posts/10/responsive/images-2026-11-18T225230.291-xs.jpg",
+        "type": "file",
+        "md5": "0b160ea727201d05b7964728f818aa21"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/images-2026-11-18T225427.377.jpg",
+        "type": "file",
+        "md5": "f7ef76ae44ae14e16739f5585e3fbf7c"
+    },
+    {
+        "path": "/media/posts/11/images-2026-11-18T225434.911.jpg",
+        "type": "file",
+        "md5": "03945d1c42129a1aef15e383c73bfe50"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-18T225427.377-md.jpg",
+        "type": "file",
+        "md5": "649b5b33b2b20abf412e8f17f371877c"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-18T225427.377-sm.jpg",
+        "type": "file",
+        "md5": "f4fae7e79b01033f2252c5bfbdc38107"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-18T225427.377-xs.jpg",
+        "type": "file",
+        "md5": "91a8719254e684fb3e94e8e54b01b78a"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-18T225434.911-lg.jpg",
+        "type": "file",
+        "md5": "6f527644420a0acf24329377c7607c95"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-18T225434.911-md.jpg",
+        "type": "file",
+        "md5": "6f527644420a0acf24329377c7607c95"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-18T225434.911-sm.jpg",
+        "type": "file",
+        "md5": "6f527644420a0acf24329377c7607c95"
+    },
+    {
+        "path": "/media/posts/11/responsive/images-2026-11-18T225434.911-xs.jpg",
+        "type": "file",
+        "md5": "06dc30d6611523e23e5623bbb127b6cb"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/images-2026-11-18T225740.036.jpg",
+        "type": "file",
+        "md5": "a54ccd11d0771dd8c17ae754e8ddc024"
+    },
+    {
+        "path": "/media/posts/13/images-2026-11-18T225744.918.jpg",
+        "type": "file",
+        "md5": "77c406c0e6318ea0541c625c7aecdb78"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-18T225740.036-lg.jpg",
+        "type": "file",
+        "md5": "c0642c271b1328504cd8923b988a9278"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-18T225740.036-md.jpg",
+        "type": "file",
+        "md5": "c0642c271b1328504cd8923b988a9278"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-18T225740.036-sm.jpg",
+        "type": "file",
+        "md5": "c0642c271b1328504cd8923b988a9278"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-18T225740.036-xs.jpg",
+        "type": "file",
+        "md5": "77afb88838408b3c74cc13f03a99411f"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-18T225744.918-md.jpg",
+        "type": "file",
+        "md5": "7cec3e4ed821ff1cb3dddb330e15f838"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-18T225744.918-sm.jpg",
+        "type": "file",
+        "md5": "7cec3e4ed821ff1cb3dddb330e15f838"
+    },
+    {
+        "path": "/media/posts/13/responsive/images-2026-11-18T225744.918-xs.jpg",
+        "type": "file",
+        "md5": "0d1d81decd0ee7d866657faaff129a46"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/images-2026-11-18T230515.950.jpg",
+        "type": "file",
+        "md5": "7b8b148bc7fc1696ad8d119a00c34586"
+    },
+    {
+        "path": "/media/posts/14/images-2026-11-18T230521.740.jpg",
+        "type": "file",
+        "md5": "b94edb295d662d81cad859efbf4659ef"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-18T230515.950-md.jpg",
+        "type": "file",
+        "md5": "cf83a182cf7df6434138da858376e692"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-18T230515.950-sm.jpg",
+        "type": "file",
+        "md5": "3e0e7d7d59c46cea8b826a4f1be24218"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-18T230515.950-xs.jpg",
+        "type": "file",
+        "md5": "be6d86a0d5986c8dca5c5af3f21ea47b"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-18T230521.740-lg.jpg",
+        "type": "file",
+        "md5": "fe58c411d7e3ce4cea96cd585d0763b6"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-18T230521.740-md.jpg",
+        "type": "file",
+        "md5": "fe58c411d7e3ce4cea96cd585d0763b6"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-18T230521.740-sm.jpg",
+        "type": "file",
+        "md5": "fe58c411d7e3ce4cea96cd585d0763b6"
+    },
+    {
+        "path": "/media/posts/14/responsive/images-2026-11-18T230521.740-xs.jpg",
+        "type": "file",
+        "md5": "3f93f470ffb9c2786d81c29291dd33ac"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/images-2026-11-18T230816.042.jpg",
+        "type": "file",
+        "md5": "fe4c7b34fa7c00eaf5757e4290d32639"
+    },
+    {
+        "path": "/media/posts/15/images-2026-11-18T230823.622.jpg",
+        "type": "file",
+        "md5": "0ca07398f1973c5d8e2ef82ec00db9eb"
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/images-2026-11-18T230816.042-md.jpg",
+        "type": "file",
+        "md5": "b0ef52dbc7b3ad45fc382884e20be452"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-2026-11-18T230816.042-sm.jpg",
+        "type": "file",
+        "md5": "b0ef52dbc7b3ad45fc382884e20be452"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-2026-11-18T230816.042-xs.jpg",
+        "type": "file",
+        "md5": "0010d9509f71adbc8d6f0c0a3b0085d9"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-2026-11-18T230823.622-lg.jpg",
+        "type": "file",
+        "md5": "705f9809400e1c5944d9ddb992ed01fd"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-2026-11-18T230823.622-md.jpg",
+        "type": "file",
+        "md5": "705f9809400e1c5944d9ddb992ed01fd"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-2026-11-18T230823.622-sm.jpg",
+        "type": "file",
+        "md5": "705f9809400e1c5944d9ddb992ed01fd"
+    },
+    {
+        "path": "/media/posts/15/responsive/images-2026-11-18T230823.622-xs.jpg",
+        "type": "file",
+        "md5": "3a716c9d63f49de195658c8dc4cd6048"
+    },
+    {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/images-2026-11-23T074255.279.jpg",
+        "type": "file",
+        "md5": "a0b92c08954b596b6b9d8ee31b10b1a4"
+    },
+    {
+        "path": "/media/posts/16/images-2026-11-23T074259.971.jpg",
+        "type": "file",
+        "md5": "aea583bdca5059c3d74cbfed2da54f5b"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074255.279-md.jpg",
+        "type": "file",
+        "md5": "6f7db20e2fce52050b7538e2787df8e6"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074255.279-sm.jpg",
+        "type": "file",
+        "md5": "6f7db20e2fce52050b7538e2787df8e6"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074255.279-xs.jpg",
+        "type": "file",
+        "md5": "84117288c045e1765cff0039e645461e"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074259.971-lg.jpg",
+        "type": "file",
+        "md5": "56b2ab8f0837d9c183817cc297061b6b"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074259.971-md.jpg",
+        "type": "file",
+        "md5": "56b2ab8f0837d9c183817cc297061b6b"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074259.971-sm.jpg",
+        "type": "file",
+        "md5": "3b7092da443f8ee5a5728ff51076c797"
+    },
+    {
+        "path": "/media/posts/16/responsive/images-2026-11-23T074259.971-xs.jpg",
+        "type": "file",
+        "md5": "d652ec48a7b8316f30c4ec38fd4ec7a5"
+    },
+    {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/images-2026-11-25T222839.812.jpg",
+        "type": "file",
+        "md5": "554bdcecaca0e4b605b2bb13b33383ff"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T222839.812-lg.jpg",
+        "type": "file",
+        "md5": "3a02de03dfa40586a2928727711a5f73"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T222839.812-md.jpg",
+        "type": "file",
+        "md5": "3a02de03dfa40586a2928727711a5f73"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T222839.812-sm.jpg",
+        "type": "file",
+        "md5": "d238054c6b69d27b0a3594158f54e2e1"
+    },
+    {
+        "path": "/media/posts/17/responsive/images-2026-11-25T222839.812-xs.jpg",
+        "type": "file",
+        "md5": "3ed030b09f336ef3496a47b253a221de"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/images-2026-11-18T222656.638-2.jpg",
+        "type": "file",
+        "md5": "67e0657be7689081b53e92ecf875dde6"
+    },
+    {
+        "path": "/media/posts/4/images-2026-11-18T222656.638.jpg",
+        "type": "file",
+        "md5": "67e0657be7689081b53e92ecf875dde6"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-18T222656.638-2-lg.jpg",
+        "type": "file",
+        "md5": "dc67bab8c6fff4316bb179067613a6de"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-18T222656.638-2-md.jpg",
+        "type": "file",
+        "md5": "dc67bab8c6fff4316bb179067613a6de"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-18T222656.638-2-sm.jpg",
+        "type": "file",
+        "md5": "dc67bab8c6fff4316bb179067613a6de"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-18T222656.638-2-xs.jpg",
+        "type": "file",
+        "md5": "082e9d15c96cbb4f45b15a0feb71847c"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-18T222656.638-md.jpg",
+        "type": "file",
+        "md5": "dc67bab8c6fff4316bb179067613a6de"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-18T222656.638-sm.jpg",
+        "type": "file",
+        "md5": "dc67bab8c6fff4316bb179067613a6de"
+    },
+    {
+        "path": "/media/posts/4/responsive/images-2026-11-18T222656.638-xs.jpg",
+        "type": "file",
+        "md5": "082e9d15c96cbb4f45b15a0feb71847c"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/download-1.jpg",
+        "type": "file",
+        "md5": "341d29f4d75aae0059dcde899deb91e7"
+    },
+    {
+        "path": "/media/posts/5/images-2026-11-18T223108.710.jpg",
+        "type": "file",
+        "md5": "bba044b0986f595649ca516fc7e4d9c8"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/download-1-lg.jpg",
+        "type": "file",
+        "md5": "c32bff9b43679c6fedf96113f0d39f6f"
+    },
+    {
+        "path": "/media/posts/5/responsive/download-1-md.jpg",
+        "type": "file",
+        "md5": "c32bff9b43679c6fedf96113f0d39f6f"
+    },
+    {
+        "path": "/media/posts/5/responsive/download-1-sm.jpg",
+        "type": "file",
+        "md5": "c32bff9b43679c6fedf96113f0d39f6f"
+    },
+    {
+        "path": "/media/posts/5/responsive/download-1-xs.jpg",
+        "type": "file",
+        "md5": "c32bff9b43679c6fedf96113f0d39f6f"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-2026-11-18T223108.710-md.jpg",
+        "type": "file",
+        "md5": "3c5af6bbc3191cf51d41bb21a4e3f5e2"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-2026-11-18T223108.710-sm.jpg",
+        "type": "file",
+        "md5": "3c5af6bbc3191cf51d41bb21a4e3f5e2"
+    },
+    {
+        "path": "/media/posts/5/responsive/images-2026-11-18T223108.710-xs.jpg",
+        "type": "file",
+        "md5": "53b49743ac14b7653730954c34d2388e"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/images-2026-11-18T223409.050.jpg",
+        "type": "file",
+        "md5": "0ead1a8459caeb6d74240702423727bf"
+    },
+    {
+        "path": "/media/posts/6/images-2026-11-18T223416.169.jpg",
+        "type": "file",
+        "md5": "33da36636c80bfbcd3167fe00134a8f1"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-18T223409.050-md.jpg",
+        "type": "file",
+        "md5": "c6613360ce35297f5aefdc8318869a61"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-18T223409.050-sm.jpg",
+        "type": "file",
+        "md5": "79c530ed0c1b4582d869cb141f5764d7"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-18T223409.050-xs.jpg",
+        "type": "file",
+        "md5": "59436bdbd24ca0f15d429b44c758f434"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-18T223416.169-lg.jpg",
+        "type": "file",
+        "md5": "8f8898981d58cf28468571a88f274e22"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-18T223416.169-md.jpg",
+        "type": "file",
+        "md5": "8f8898981d58cf28468571a88f274e22"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-18T223416.169-sm.jpg",
+        "type": "file",
+        "md5": "358d643b17ec1dfe39a92d20547dd0b7"
+    },
+    {
+        "path": "/media/posts/6/responsive/images-2026-11-18T223416.169-xs.jpg",
+        "type": "file",
+        "md5": "c7f5f0df96eaa585d723cabc68e2e686"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/images-2026-11-18T223957.036.jpg",
+        "type": "file",
+        "md5": "1223b1e1034a6ab3acf43871fa223f4c"
+    },
+    {
+        "path": "/media/posts/7/images-2026-11-18T224010.072.jpg",
+        "type": "file",
+        "md5": "23eb29b0c082337ac74af52a8243a79e"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-18T223957.036-lg.jpg",
+        "type": "file",
+        "md5": "867d3194fb802ab35aaeb4320600f2e4"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-18T223957.036-md.jpg",
+        "type": "file",
+        "md5": "867d3194fb802ab35aaeb4320600f2e4"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-18T223957.036-sm.jpg",
+        "type": "file",
+        "md5": "867d3194fb802ab35aaeb4320600f2e4"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-18T223957.036-xs.jpg",
+        "type": "file",
+        "md5": "f593d10ab6bfb626d7e475fcef18c54c"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-18T224010.072-md.jpg",
+        "type": "file",
+        "md5": "5ec40d5d32da6494e339c5ae12fec1a2"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-18T224010.072-sm.jpg",
+        "type": "file",
+        "md5": "5ec40d5d32da6494e339c5ae12fec1a2"
+    },
+    {
+        "path": "/media/posts/7/responsive/images-2026-11-18T224010.072-xs.jpg",
+        "type": "file",
+        "md5": "3e639afc9a5c50796042c0f54a2990e1"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/images-2026-11-18T223957.036-2.jpg",
+        "type": "file",
+        "md5": "1223b1e1034a6ab3acf43871fa223f4c"
+    },
+    {
+        "path": "/media/posts/8/images-2026-11-18T223957.036.jpg",
+        "type": "file",
+        "md5": "1223b1e1034a6ab3acf43871fa223f4c"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-18T223957.036-2-md.jpg",
+        "type": "file",
+        "md5": "867d3194fb802ab35aaeb4320600f2e4"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-18T223957.036-2-sm.jpg",
+        "type": "file",
+        "md5": "867d3194fb802ab35aaeb4320600f2e4"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-18T223957.036-2-xs.jpg",
+        "type": "file",
+        "md5": "f593d10ab6bfb626d7e475fcef18c54c"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-18T223957.036-lg.jpg",
+        "type": "file",
+        "md5": "867d3194fb802ab35aaeb4320600f2e4"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-18T223957.036-md.jpg",
+        "type": "file",
+        "md5": "867d3194fb802ab35aaeb4320600f2e4"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-18T223957.036-sm.jpg",
+        "type": "file",
+        "md5": "867d3194fb802ab35aaeb4320600f2e4"
+    },
+    {
+        "path": "/media/posts/8/responsive/images-2026-11-18T223957.036-xs.jpg",
+        "type": "file",
+        "md5": "f593d10ab6bfb626d7e475fcef18c54c"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/images-2026-11-18T224902.690.jpg",
+        "type": "file",
+        "md5": "fc9d1d6cf25d8ca517f9908872b61ade"
+    },
+    {
+        "path": "/media/posts/9/images-2026-11-18T224913.265.jpg",
+        "type": "file",
+        "md5": "c5714a42889cbf840b9f337dc60de8fa"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-18T224902.690-lg.jpg",
+        "type": "file",
+        "md5": "1341c1b189d76fa1dda0616d4c23ca3d"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-18T224902.690-md.jpg",
+        "type": "file",
+        "md5": "1341c1b189d76fa1dda0616d4c23ca3d"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-18T224902.690-sm.jpg",
+        "type": "file",
+        "md5": "1341c1b189d76fa1dda0616d4c23ca3d"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-18T224902.690-xs.jpg",
+        "type": "file",
+        "md5": "bb963bdeae3fa860faa2f7f0fd1f7f52"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-18T224913.265-md.jpg",
+        "type": "file",
+        "md5": "fa7273de3ccc6d5674138b58ac998061"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-18T224913.265-sm.jpg",
+        "type": "file",
+        "md5": "fa7273de3ccc6d5674138b58ac998061"
+    },
+    {
+        "path": "/media/posts/9/responsive/images-2026-11-18T224913.265-xs.jpg",
+        "type": "file",
+        "md5": "999ad69604add17d70483dc45cfaa976"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/urban-apartment-living-logo-sm.png",
+        "type": "file",
+        "md5": "1320fcf2eabd35b31df9111320a4c30d"
+    },
+    {
+        "path": "/media/website/responsive/urban-apartment-living-logo-xs.png",
+        "type": "file",
+        "md5": "3f3301bfbef1704a39c4b2d6f612de1b"
+    },
+    {
+        "path": "/media/website/urban-apartment-living-logo.png",
+        "type": "file",
+        "md5": "d8dd4280b2986a03cd6b0326453f91a1"
+    },
+    {
+        "path": "modern-surface-design-ideas-for-stylish-and-contemporary-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/modern-surface-design-ideas-for-stylish-and-contemporary-interiors/index.html",
+        "type": "file",
+        "md5": "761963967e5f13f8b1c840acc82c7950"
+    },
+    {
+        "path": "practical-storage-ideas-for-organized-and-space-efficient-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/practical-storage-ideas-for-organized-and-space-efficient-interiors/index.html",
+        "type": "file",
+        "md5": "7632cb3bc7092fca5482b5518a0f2193"
+    },
+    {
+        "path": "privacy-policy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/privacy-policy/index.html",
+        "type": "file",
+        "md5": "871045bff9be677eaeceeff05d930c38"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "746d76a5b36966d45b984968b5f5abcb"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "2f707579a59ffb42425cc8b9dc2d1ad6"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "smart-furniture-ideas-for-comfortable-and-space-saving-living",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/smart-furniture-ideas-for-comfortable-and-space-saving-living/index.html",
+        "type": "file",
+        "md5": "a384e035f4a7ed3099244be01833bed4"
+    },
+    {
+        "path": "smart-interior-design-ideas-for-creating-flexible-and-functional-living-spaces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/smart-interior-design-ideas-for-creating-flexible-and-functional-living-spaces/index.html",
+        "type": "file",
+        "md5": "22d391c3f0429a8bf8a406674cd70159"
+    },
+    {
+        "path": "smart-interior-design-ideas-for-flexible-and-practical-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/smart-interior-design-ideas-for-flexible-and-practical-homes/index.html",
+        "type": "file",
+        "md5": "76b87676d0c97f29bdc821cf90cc0677"
+    },
+    {
+        "path": "smart-storage-solutions-for-organized-and-stylish-interiors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/smart-storage-solutions-for-organized-and-stylish-interiors/index.html",
+        "type": "file",
+        "md5": "59993841d0a9aabc781919173fc477e1"
+    },
+    {
+        "path": "stylish-space-saving-furniture-for-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/stylish-space-saving-furniture-for-modern-homes/index.html",
+        "type": "file",
+        "md5": "86011676d3b8cabe91467636b7260988"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/black-metal-accents",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/black-metal-accents/index.html",
+        "type": "file",
+        "md5": "9fd0e3cd119239f759d0532b2c6c3cfb"
+    },
+    {
+        "path": "tags/compact-sofa-beds",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/compact-sofa-beds/index.html",
+        "type": "file",
+        "md5": "7573c4628a1589620ceaa3fc563b5911"
+    },
+    {
+        "path": "tags/convertible-sectional-sofas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/convertible-sectional-sofas/index.html",
+        "type": "file",
+        "md5": "c18889d605fdbb342fedcf8c90dfc3f3"
+    },
+    {
+        "path": "tags/exposed-concrete-finishes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/exposed-concrete-finishes/index.html",
+        "type": "file",
+        "md5": "81e6838ec9b828e36eb51f3a8b58a6d0"
+    },
+    {
+        "path": "tags/hanging-storage-racks",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/hanging-storage-racks/index.html",
+        "type": "file",
+        "md5": "ec1e597d491065a3a3395b461231657f"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "b1e7e24c6dbab42cf9856fe7ee2de1d6"
+    },
+    {
+        "path": "tags/loveseat-bed-units",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/loveseat-bed-units/index.html",
+        "type": "file",
+        "md5": "bad36aaf25e93fdbcdd90709d2414958"
+    },
+    {
+        "path": "tags/minimalist-city-aesthetics",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/minimalist-city-aesthetics/index.html",
+        "type": "file",
+        "md5": "c14afb51a8925a6f0b1bed8d54f571eb"
+    },
+    {
+        "path": "tags/multi-functional-furniture-layouts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/multi-functional-furniture-layouts/index.html",
+        "type": "file",
+        "md5": "f9edd179ecd642b72b1a5ccd69ac9729"
+    },
+    {
+        "path": "tags/open-plan-zoning",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/open-plan-zoning/index.html",
+        "type": "file",
+        "md5": "984e87c477d6c1b47691511f58f22384"
+    },
+    {
+        "path": "tags/pull-out-sleeper-couches",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/pull-out-sleeper-couches/index.html",
+        "type": "file",
+        "md5": "73cfefb6f823a1ed628776f92e88f36e"
+    },
+    {
+        "path": "tags/room-dividers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/room-dividers/index.html",
+        "type": "file",
+        "md5": "1501b90c319626402812034043dfd2b3"
+    },
+    {
+        "path": "tags/studio-apartment-layouts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/studio-apartment-layouts/index.html",
+        "type": "file",
+        "md5": "76ab42be01c8caecbf04afd754619623"
+    },
+    {
+        "path": "tags/tall-bookshelves",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/tall-bookshelves/index.html",
+        "type": "file",
+        "md5": "e5ea127c4e00e465739bf8a6ed207b32"
+    },
+    {
+        "path": "tags/urban-loft-styling",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/urban-loft-styling/index.html",
+        "type": "file",
+        "md5": "2f898edb2795cc9121642fcc41665891"
+    },
+    {
+        "path": "tags/vertical-space-utilization",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/vertical-space-utilization/index.html",
+        "type": "file",
+        "md5": "70c6ede2818c3792e0fe221f46c8b500"
+    },
+    {
+        "path": "tags/wall-mounted-cabinets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/wall-mounted-cabinets/index.html",
+        "type": "file",
+        "md5": "293fb742f97dac9db7830c0492fd1dd5"
+    },
+    {
+        "path": "transform-your-living-space-with-flexible-and-stylish-seating-solutions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-living-space-with-flexible-and-stylish-seating-solutions/index.html",
+        "type": "file",
+        "md5": "48acec6e1cb5d0e69cf576be3e14bb9c"
+    }
+]
